@@ -9,9 +9,9 @@
 
 <p align="center">
   <a href="https://github.com/nickth3man?tab=repositories"><img alt="Repos" src="https://img.shields.io/badge/Repos-Open%20to%20PRs-informational?style=flat-square"></a>
-  <a href="https://github.com/nickth3man?tab=stars"><img alt="Stars I follow" src="https://img.shields.io/badge/Stars-Learning%20from%20the%20best-ffb86c?style=flat-square"></a>
-  <img alt="Learning" src="https://img.shields.io/badge/Learning-Python-3572A5?style=flat-square&logo=python">
-  <img alt="Focus" src="https://img.shields.io/badge/Focus-Agents%20%7C%20RAG%20%7C%20Automation-6aa6f8?style=flat-square">
+  <a href="https://github.com/nickth3man?tab=stars"><img alt="Stars" src="https://img.shields.io/badge/Stars-Learning%20from%20the%20best-ffb86c?style=flat-square"></a>
+  <a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python" /></a>
+  <a href="https://llamaindex.ai/"><img alt="LlamaIndex" src="https://img.shields.io/badge/LlamaIndex-Data%20Agents-111?style=for-the-badge" /></a>
   <a href="#contact"><img alt="Contact" src="https://img.shields.io/badge/Contact-open%20for%20collab-brightgreen?style=flat-square"></a>
 </p>
 
