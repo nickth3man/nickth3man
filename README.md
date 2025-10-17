@@ -65,12 +65,12 @@
 
 ---
 
-### Activity (auto‑updates)
+<!--### Activity (auto‑updates)
 <!--START_SECTION:activity-->
 <!-- Enable with jamesgeorge007/github-activity-readme -->
 <!--END_SECTION:activity-->
 
-### Time spent coding (optional)
+<!--### Time spent coding (optional)
 <!--START_SECTION:waka-->
 <!-- Enable with athul/waka-readme -->
 <!--END_SECTION:waka-->
