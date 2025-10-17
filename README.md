@@ -1,80 +1,93 @@
-<!-- Centered intro with a subtle animated headline -->
+<!-- Top: animated typing header (keeps your original typing SVG) -->
 <p align="center">
   <a href="https://github.com/nickth3man">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&size=26&pause=1000&center=true&vCenter=true&width=650&lines=Beginner+AI+systems+enthusiast;Learning+Python+to+talk+to+LLMs;Exploring+agents%2C+RAG%2C+and+automation" alt="Typing SVG header" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&size=30&pause=1000&center=true&vCenter=true&width=800&lines=Beginner+AI+systems+enthusiast;Learning+Python+%7C+Agents+%7C+RAG" alt="Typing SVG header" />
   </a>
 </p>
 
-<h1 align="center">Hi, I'm Nicolas — <a href="https://github.com/nickth3man">@nickth3man</a> 👋</h1>
+<h1 align="center">Hi — I'm Nicolas (nickth3man) 👋</h1>
 
 <p align="center">
   <a href="https://github.com/nickth3man?tab=repositories"><img alt="Repos" src="https://img.shields.io/badge/Repos-Open%20to%20PRs-informational?style=flat-square"></a>
   <a href="https://github.com/nickth3man?tab=stars"><img alt="Stars I follow" src="https://img.shields.io/badge/Stars-Learning%20from%20the%20best-ffb86c?style=flat-square"></a>
   <img alt="Learning" src="https://img.shields.io/badge/Learning-Python-3572A5?style=flat-square&logo=python">
   <img alt="Focus" src="https://img.shields.io/badge/Focus-Agents%20%7C%20RAG%20%7C%20Automation-6aa6f8?style=flat-square">
+  <a href="#contact"><img alt="Contact" src="https://img.shields.io/badge/Contact-open%20for%20collab-brightgreen?style=flat-square"></a>
 </p>
 
 ---
 
-### What I’m doing now
+Short bio
+- I’m a beginner AI systems enthusiast building practical skills in Python, LLMs, agent frameworks, RAG, and automation. I focus on small, repeatable experiments and building tools that help me learn (and share) faster.
+
+What I’m doing now
 - 📚 Building Python fluency to script and evaluate LLMs  
-- 🧩 Playing with agent frameworks and retrieval patterns  
-- 🗂️ Curating practical AI resources and free API access options
+- 🧩 Experimenting with agent frameworks and retrieval‑augmented approaches  
+- 🗂️ Curating practical, low-cost/free LLM API resources for hands-on practice
 
----
+Featured projects
+- Content Creator — an agentic coding starter (PocketFlow template).  
+  Repo: https://github.com/nickth3man/content-creator — starter for multi-agent workflows and reproducible prompts.
+- Highlight‑App — a Python sandbox exploring code metrics and refactors.  
+  Repo: https://github.com/nickth3man/Highlight-App — small experiments with tests and tooling.
+- Free LLM API resources (fork) — a living list of free/low-cost endpoints.  
+  Repo: https://github.com/nickth3man/free-llm-api-resources — great for practicing prompts and integrations.
 
-### Projects I’m learning with
-- **Content Creator (PocketFlow template)** — agentic coding starter with rules for multiple AI IDEs. <br>
-  <sub>Repo:</sub> <a href="https://github.com/nickth3man/content-creator">nickth3man/content-creator</a>
-- **Highlight‑App** — a small Python sandbox where I explore code metrics, tests, and refactors. <br>
-  <sub>Repo:</sub> <a href="https://github.com/nickth3man/Highlight-App">nickth3man/Highlight-App</a>
-- **Free LLM API resources (fork)** — a living list of no/low‑cost LLM endpoints to practice against. <br>
-  <sub>Repo:</sub> <a href="https://github.com/nickth3man/free-llm-api-resources">nickth3man/free-llm-api-resources</a>
-
----
-
-### Starboard → tools I’m exploring
+Skills & tools (short)
 <p>
-  <a href="https://github.com/docling-project/docling"><img alt="Docling" src="https://img.shields.io/badge/Docling-Document%20to%20AI%20pipeline-111?style=for-the-badge"></a>
-  <a href="https://github.com/run-llama/llama_index"><img alt="LlamaIndex" src="https://img.shields.io/badge/LlamaIndex-Data%20agents-111?style=for-the-badge"></a>
-  <a href="https://github.com/infiniflow/ragflow"><img alt="RAGFlow" src="https://img.shields.io/badge/RAGFlow-RAG%2BAgents-111?style=for-the-badge"></a>
-  <a href="https://github.com/open-webui/open-webui"><img alt="Open WebUI" src="https://img.shields.io/badge/Open%20WebUI-Local%20LLM%20UI-111?style=for-the-badge"></a>
-  <a href="https://github.com/codecrafters-io/build-your-own-x"><img alt="Build Your Own X" src="https://img.shields.io/badge/Build%20Your%20Own%20X-Foundations-111?style=for-the-badge"></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python" alt="Python"></a>
+  <a href="https://github.com/features/actions"><img src="https://img.shields.io/badge/GitHub%20Actions-Automation-222" alt="GitHub Actions" style="vertical-align:middle"></a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker" alt="Docker"></a>
+  <a href="https://llamaindex.ai/"><img src="https://img.shields.io/badge/LlamaIndex-Data%20Agents-111?style=for-the-badge" alt="LlamaIndex"></a>
+  <a href="https://github.com/infiniflow/ragflow"><img src="https://img.shields.io/badge/RAGFlow-RAG%2BAgents-111?style=for-the-badge" alt="RAGFlow"></a>
 </p>
 
----
-
-### Learning path (working list)
+Learning path (working checklist)
 - [ ] Python basics → functions, files, CLI tools  
 - [ ] Git + GitHub workflows → issues, PRs, Actions  
 - [ ] Call an LLM API from Python → prompt, parse, log  
 - [ ] Build a tiny “research agent” that saves sources  
 - [ ] Add simple evals and tests for reliability
 
----
+Pinned / quick links
+- Repositories: https://github.com/nickth3man?tab=repositories  
+- Starred collections I learn from: https://github.com/nickth3man?tab=stars
 
-### Stats
+Stats
 <p align="center">
-  <img height="170" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nickth3man&show_icons=true&hide_border=true&rank_icon=percentile&theme=transparent" />
-  <img height="170" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickth3man&layout=compact&hide_border=true&theme=transparent" />
+  <img height="160" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=nickth3man&show_icons=true&hide_border=true&rank_icon=percentile&theme=transparent" />
+  <img height="160" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickth3man&layout=compact&hide_border=true&theme=transparent" />
 </p>
 
 <p align="center">
   <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=nickth3man&margin-w=10&margin-h=10&no-bg=true&no-frame=true&theme=flat" />
 </p>
 
----
+Optional dynamic sections (enable if you want auto updates)
+- Activity (GitHub activity readme): https://github.com/jamesgeorge007/github-activity-readme  
+  To enable: create .github/workflows/activity.yml and follow the repo instructions. The README placeholder format:
+  <!-- START_SECTION:activity -->
+  <!-- END_SECTION:activity -->
+- Time tracked (Waka): https://github.com/athul/waka-readme  
+  To enable: create a GitHub Action and follow their README. The placeholder:
+  <!-- START_SECTION:waka -->
+  <!-- END_SECTION:waka -->
 
-<!--### Activity (auto‑updates)-->
-<!--START_SECTION:activity-->
-<!-- Enable with jamesgeorge007/github-activity-readme -->
-<!--END_SECTION:activity-->
+Tips & small copy notes
+- Use short, scannable sentences and prioritize 1-line descriptions for projects.  
+- Keep badges consistent: use flat-square for small status badges and for-the-badge for tool logos.  
+- If you enable dynamic sections, keep them near the bottom so static overview content stays visible immediately.
 
-<!--### Time spent coding (optional)
-<!--START_SECTION:waka-->
-<!-- Enable with athul/waka-readme -->
-<!--END_SECTION:waka-->-->
+Contact
+- GitHub: https://github.com/nickth3man  
+- Email: (add your preferred contact method here)  
+- Twitter/X: (add if desired)
 
----
+Footer
+_Last updated: 2025-10-17 — draft improved for readability, featured projects, and optional dynamic sections. Comments in the file explain how to enable auto-updating sections via GitHub Actions._
 
-<!-- <sub>Tip: use emoji shortcodes like <code>:rocket:</code> and <code>:sparkles:</code> while editing.</sub> -->
+<!--
+Developer notes (do not show on profile): 
+- To add automatic activity/waka updates, enable the actions linked above and add the START/END placeholders exactly as shown.
+- If you'd like, I can: (1) create a branch + commit with this README, (2) add a basic workflow file to enable GitHub Activity, and (3) preview the rendered result.
+-->
