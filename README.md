@@ -77,4 +77,4 @@
 
 ---
 
-<sub>Tip: use emoji shortcodes like <code>:rocket:</code> and <code>:sparkles:</code> while editing.</sub>
+<!-- <sub>Tip: use emoji shortcodes like <code>:rocket:</code> and <code>:sparkles:</code> while editing.</sub> -->
