@@ -26,12 +26,9 @@ What I’m doing now
 - 🗂️ Curating practical, low-cost/free LLM API resources for hands-on practice
 
 Featured projects
-- Content Creator — an agentic coding starter (PocketFlow template).  
-  Repo: https://github.com/nickth3man/content-creator — starter for multi-agent workflows and reproducible prompts.
-- Highlight‑App — a Python sandbox exploring code metrics and refactors.  
-  Repo: https://github.com/nickth3man/Highlight-App — small experiments with tests and tooling.
-- Free LLM API resources (fork) — a living list of free/low-cost endpoints.  
-  Repo: https://github.com/nickth3man/free-llm-api-resources — great for practicing prompts and integrations.
+- [Content Creator](https://github.com/nickth3man/content-creator) — an agentic coding starter (PocketFlow template) for multi-agent workflows and reproducible prompts.
+- [Highlight-App](https://github.com/nickth3man/Highlight-App) — a Python sandbox exploring code metrics, tests, and refactors.
+- [Free LLM API resources](https://github.com/nickth3man/free-llm-api-resources) — a living list of free/low-cost endpoints for practicing prompts and integrations.
 
 Skills & tools (short)
 <p>
